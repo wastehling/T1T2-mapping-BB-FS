@@ -1,0 +1,7 @@
+.idea
+py_venv
+__pycache__/
+__init__.py
+*.pyc
+*.pkl
+*.svg
